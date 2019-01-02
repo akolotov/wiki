@@ -230,4 +230,4 @@ The following management interfaces are available for the validators of the xDai
 
 Starting from the version 4.10, [NiftyWallet](https://github.com/poanetwork/nifty-wallet) can invoke methods of the contracts by taking ABIs either from verified contracts code on a block explorer or from the JSON data entered manually.
 
-An example how to use the new functionality is available (here)[https://medium.com/poa-network/nifty-wallet-now-supports-interactions-with-smart-contracts-5e8c43c19e3a]     
+An example how to use the new functionality is available [here](https://medium.com/poa-network/nifty-wallet-now-supports-interactions-with-smart-contracts-5e8c43c19e3a)
